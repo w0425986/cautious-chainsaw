@@ -1,4 +1,4 @@
 ---
-title: My Pets
+My Pets
 ---
 
